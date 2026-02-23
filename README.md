@@ -24,6 +24,12 @@ Este perfil é dedicado à organização de **projetos profissionais, estudos ap
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Java" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Oracle" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Typescript" height="30" width="40"
@@ -34,8 +40,6 @@ Este perfil é dedicado à organização de **projetos profissionais, estudos ap
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
@@ -61,7 +65,3 @@ Organizar e publicar:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
-
----
-
-### 📍 Perfil voltado a projetos profissionais e parcerias técnicas.
